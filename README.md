@@ -8,4 +8,4 @@ Tugas kalian disini adalah:
 
 Good luck!
 
-Heroku: https://chbinar-8.herokuapp.com/
+Heroku: https://ch8athia-binar.herokuapp.com/
